@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="270815495" Language="SFX" Hash="2689651622">
+			<ObjectPath>\SoundBanks\SFX BANK\Dunno</ObjectPath>
+			<ShortName>Dunno</ShortName>
+			<Path>Dunno.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1149159311" Name="Play_Button_Click" ObjectPath="\Events\Default Work Unit\Play_Button_Click" DurationType="OneShot" DurationMin="0.5" DurationMax="0.5">
+					<IncludedMemoryFiles>
+						<File Id="193045039" Language="SFX">
+							<ShortName>Button Click.wav</ShortName>
+							<Path>SFX\Button Click_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3413456938">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

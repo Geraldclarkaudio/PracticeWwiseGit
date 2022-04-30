@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1149159311	Play_Button_Click			\Default Work Unit\Play_Button_Click	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	193045039	Button Click	C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\.cache\Windows\SFX\Button Click_10C4C929.wem		\Actor-Mixer Hierarchy\Gerald\PlaceholderSFX Folder\Button Click		88344
+

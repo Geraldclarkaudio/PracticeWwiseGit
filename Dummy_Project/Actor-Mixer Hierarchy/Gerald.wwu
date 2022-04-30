@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B82458D2-1179-4692-A1BD-F2D87A8A3682}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Gerald" ID="{B82458D2-1179-4692-A1BD-F2D87A8A3682}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="PlaceholderSFX Folder" ID="{8EE9ED0D-1473-4F63-AD4C-3C03F285481D}" ShortID="1028828013">
+					<ChildrenList>
+						<Sound Name="Button Click" ID="{C3EC2EA3-6157-4984-829A-AC71A630F631}" ShortID="707529012">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A39663D5-3DCD-4E5F-B212-758F50053010}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F6E3F398-7762-48CE-A690-5626FE9C2842}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Button Click" ID="{F799D1A0-BAD8-4CB1-B720-8334F9E86237}">
+									<Language>SFX</Language>
+									<AudioFile>Button Click.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="193045039"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Button Click" ID="{F799D1A0-BAD8-4CB1-B720-8334F9E86237}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
