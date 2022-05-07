@@ -10,6 +10,14 @@
 				<Folder Name="Drone" ID="{B46C496A-6DA4-4EEB-A7BA-4668F0E3A36A}" ShortID="766165499">
 					<ChildrenList>
 						<Sound Name="BlackHoleMoon_D_Loop" ID="{F8369341-731F-4A70-9B34-08F2ED7CFA7F}" ShortID="650089659">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-13</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A39663D5-3DCD-4E5F-B212-758F50053010}"/>

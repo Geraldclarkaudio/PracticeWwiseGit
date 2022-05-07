@@ -6,6 +6,7 @@
 				<SoundBank Name="Dunno" ID="{0C319021-ABE6-4CDE-A8EF-3DF3236A05BE}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Play_Button_Click" ID="{C404D037-3F35-405D-8640-578F4B830BCC}" WorkUnitID="{796BCA79-B051-42ED-8291-35AB68D5BF5F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_BlackHoleMoon_D_Loop" ID="{7FA37475-EB3F-40B8-A4C8-259DB69F41B9}" WorkUnitID="{796BCA79-B051-42ED-8291-35AB68D5BF5F}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

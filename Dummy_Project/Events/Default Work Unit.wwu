@@ -14,6 +14,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_BlackHoleMoon_D_Loop" ID="{7FA37475-EB3F-40B8-A4C8-259DB69F41B9}">
+					<ChildrenList>
+						<Action Name="" ID="{E8718558-B942-4311-A24A-77AC51BA7738}" ShortID="453592815">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BlackHoleMoon_D_Loop" ID="{F8369341-731F-4A70-9B34-08F2ED7CFA7F}" WorkUnitID="{D2C2235A-F8EF-433C-B66C-A685DA818B6E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Epic_Loop" ID="{81D8D1CA-0B3A-4D28-A17D-DAD5F2E07324}">
+					<ChildrenList>
+						<Action Name="" ID="{87F58E11-D608-4475-8DEC-987D9917C73D}" ShortID="652785508">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Epic Loop" ID="{006848C0-0805-42DD-9A20-3667BAFED5A7}" WorkUnitID="{084BE1DF-66A3-41A7-8918-26E59F612DD8}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

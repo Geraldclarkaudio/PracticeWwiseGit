@@ -1,6 +1,8 @@
 Event	ID	Name			Wwise Object Path	Notes
 	1149159311	Play_Button_Click			\Default Work Unit\Play_Button_Click	
+	3869147556	Play_BlackHoleMoon_D_Loop			\Default Work Unit\Play_BlackHoleMoon_D_Loop	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	193045039	Button Click	C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\.cache\Windows\SFX\Button Click_10C4C929.wem		\Actor-Mixer Hierarchy\Gerald\PlaceholderSFX Folder\Button Click		88344
+	176412382	BlackHoleMoon_D_Loop	C:\Users\jerry\Desktop\Unity Projects\PracticeWwiseGit\Dummy_Project\.cache\Windows\SFX\BlackHoleMoon_D_Loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\AJ\Drone\BlackHoleMoon_D_Loop		5760064
+	193045039	Button Click	C:\Users\jerry\Desktop\Unity Projects\PracticeWwiseGit\Dummy_Project\.cache\Windows\SFX\Button Click_10C4C929.wem		\Actor-Mixer Hierarchy\Gerald\PlaceholderSFX Folder\Button Click		88344
 

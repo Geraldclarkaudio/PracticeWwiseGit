@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\jerry\Desktop\Unity Projects\PracticeWwiseGit\Dummy_Project\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\jerry\Desktop\Unity Projects\PracticeWwiseGit\Dummy_Project\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\jerry\Desktop\Unity Projects\PracticeWwiseGit\Dummy_Project\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\jerry\Desktop\Wwise Projects\Dummy_Project\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\jerry\Desktop\Unity Projects\PracticeWwiseGit\Dummy_Project\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="270815495" Language="SFX" Hash="2689651622">
+		<SoundBank Id="270815495" Language="SFX" Hash="2086237162">
 			<ObjectPath>\SoundBanks\SFX BANK\Dunno</ObjectPath>
 			<ShortName>Dunno</ShortName>
 			<Path>Dunno.bnk</Path>
 			<IncludedEvents>
+				<Event Id="3869147556" Name="Play_BlackHoleMoon_D_Loop" ObjectPath="\Events\Default Work Unit\Play_BlackHoleMoon_D_Loop" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="176412382" Language="SFX">
+							<ShortName>BlackHoleMoon_D_Loop.wav</ShortName>
+							<Path>SFX\BlackHoleMoon_D_Loop_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="1149159311" Name="Play_Button_Click" ObjectPath="\Events\Default Work Unit\Play_Button_Click" DurationType="OneShot" DurationMin="0.5" DurationMax="0.5">
 					<IncludedMemoryFiles>
 						<File Id="193045039" Language="SFX">
@@ -30,6 +38,21 @@
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="4195921398" Language="SFX" Hash="244756013">
+			<ObjectPath>\SoundBanks\MX BANK\MusicTest</ObjectPath>
+			<ShortName>MusicTest</ShortName>
+			<Path>MusicTest.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3554610682" Name="Play_Epic_Loop" ObjectPath="\Events\Default Work Unit\Play_Epic_Loop" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="421500550" Language="SFX">
+							<ShortName>HomeBase Loop.wav</ShortName>
+							<Path>SFX\HomeBase Loop_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>
